@@ -1,0 +1,5 @@
+harnessApiVersion: '1.0'
+type: SERVICE
+artifactType: PCF
+cfCliVersion: V6
+deploymentType: PCF
