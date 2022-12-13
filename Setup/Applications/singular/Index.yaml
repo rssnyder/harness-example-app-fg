@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: APPLICATION
+branchName: main
+description: a singular pcf app
+gitConnector: rssnyder
+isGitSyncEnabled: true
+repoName: harness-example-app-fg
