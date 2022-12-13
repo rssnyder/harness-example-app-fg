@@ -1,6 +1,0 @@
-harnessApiVersion: '1.0'
-type: APPLICATION
-branchName: main
-gitConnector: rssnyder
-isGitSyncEnabled: true
-repoName: harness-example-app-fg
